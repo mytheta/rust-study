@@ -1,0 +1,7 @@
+[package]
+name = "sample"
+version = "0.1.0"
+authors = ["yutsukimiyashita <j148015n@st.u-gakugei.ac.jp>"]
+edition = "2018"
+
+[dependencies]
